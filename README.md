@@ -12,6 +12,8 @@ It is a vertical cut, this project was previously built for the year 2022. This 
   - Updated the “Customers” section and improved the data processing and security.
   - Updated the “Employees” section and added a new role and permissions management function.
   - Updated the “Metrics” section for new social networks and to make it more abstract.
+  - Branches are created: CRM, CMS, Frontend and Backend, each branch has its own implementation guide, variables environment and deployment mode.
+  - The Docs branch is created which will have the project documentation in a general way. 
 
 **This project will not require maintenance after 2026. The project is open source**
 **Please refrain from using the project as your own, remember to leave credits with my name (github user or email) or just leaving a link to this repository. Thank you and have a nice day.**
